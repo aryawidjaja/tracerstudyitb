@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tracer-study-389201",
+  "private_key_id": "b01a5c8bd7eef5b6ba0ddcd043d5c56db9359837",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpM7lP3wLcs0YU\nbvsXLss0v5eYb4hPmDRtaPqugcUukoRfqSkAqZlFUr0+Ol0Fx7VSXxsYHBgxOp59\nuJ4uOfbK34LbqJY76RUBiIYzYdRN2GDtCRg2fZOTEOW2JnpBQajLRJ+EJ3P7xBVx\nVWGNIsCZsiWefOmgiTrRji+6AGlbZHr9MveGNSCxHQfCVBNzrANTZaeXgm/T92Ld\nGiOY+K8TzzEILvokDsDeqg2b+mdu2m97tI0jyztZXgSwFT79H/9HdXyoXGZrpIP0\nc5chKYCSSgAegs0ZjbEZEHv805GdP9tRZea0tdkOgzvPh/VRPg/xpOHVUOSa54MO\nsw8r6D1JAgMBAAECggEADwfGad91z8O+QJLmnBfoAP5YRvrpTjgBKQwbHCRBET9g\nSMoeWmyT9GPgzqH0XOsCRMzccjFdXc7paDD+APy7a1f8lyvGgxYCxJaID8e+Z0YK\n+Twc02ZEnLX6GENindIdjvxdS6c/UnrQ5v0ZzH7w6vcQdaaXaEFwCRGhAdwE7l7s\nD0TWPFDS0SevTwfiTq+uxOD55G2gq2yet0jCr+WcGPhBT6JwjWZIwNNqL7uxe06Y\ndTx71jj10kR1xg1F5VoOsohLfNCMxnAhkeHeTSjlqkR4GjATRJQ0HZ1hJeTOTsWi\nsyxcGTEN0WYXD80056p3j1Pm5XQZN44S/l55tZjoAQKBgQD1UK02pB3cbkxdbojr\nPhwjSKE+b9NFh2OTxzxYGGBPcoJCjA9alWbWdKavplNXVWty+4aNep1CixYZVEGI\nN9XpDdUs+o5Fq4KPX4Ba2/cKyHbYFJ4C5mCOHaF4F++ECuWTWPzLdoegEId/hjkB\nAicrCEVcUyXjFYoxq0p8V/u+RQKBgQDzW/u5DkTlHFxGCqFhBe0ey8CbQHDLsJ7U\nqr8hR9mWBOpefdXqO9E9YIxlhsAzjcrhHfDXvUCiyr+sqTfWnJChGTPTP3/4kcZR\njPvzmhgbai4qDzdeSA6MkaVkqlkht+6OOW/wPWIpVAytYkMIYJUAcG+hEAwOY/Pz\nixO4ZjCFNQKBgFhOBTwBEbqyfYy4aFL91ZUh5OEb0dpaZQ7iDifMBocyug8IadJ6\nqz0RWpsp7SAn4HjQb9vnwkoc1QSjHr/REZBF6XG6c5JCrcm8X/DU83WPObCIo2R5\n11Hw+pnHS/GlFoTW6JC5BxMoQA44m7ZwNvc3j/gu+hlnPIqqlTJzXWxdAoGBAODx\n61H48JHejyRm+xiVw8Ktj9Fx1VFSZt4pHhaDNYrH7GN/aVXkCNr0/ZFy5wJAVIGV\njWO9mZtgUaAlommLutxOUWs4zO9Uv73t1Y4sp4/fq+BQxFsvu9MPZZQRKeZS//0S\n9ndYJf4RpM43f8Kkk9YeF/EGxj4fAgXiTk4qlzrpAoGBAPPBAIJ7SvKJOxtes6zn\nChpLlAAazQDrl72c8geul+GFNGNoCb2ukXieWP2vzsd5xCzmV1ldLb4to6OZaD7i\nwobEg82qi/9KdagrE8QmGvgWd1HIeKurrbVwRktYkHfTUI+wQ75n2bMBSDTp4HRF\nR9lgVen7V4gfvSNZUEtSG1Pp\n-----END PRIVATE KEY-----\n",
+  "client_email": "tracer-study-itb@tracer-study-389201.iam.gserviceaccount.com",
+  "client_id": "117646827269361764171",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tracer-study-itb%40tracer-study-389201.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
